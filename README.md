@@ -1,7 +1,9 @@
 # MedChain QC
 
 > **Tamper-proof medical record access control on Stellar — built for patients in Quezon City and beyond.**
+## Demo Screenshot
 
+![Screenshot](screenshot/stellar-ss.png)
 ---
 
 ## Problem
@@ -259,8 +261,10 @@ medchain-qc/
 ## License
 
 MIT © 2025 MedChain QC Contributors
-Contract ID : CBRJEQNZWSWO4FYKTWCUUOJY4NIBORCUWRGJFNBVPYR6Q35IZCZQOIKS
-Stellar Link : https://stellar.expert/explorer/testnet/contract/CBRJEQNZWSWO4FYKTWCUUOJY4NIBORCUWRGJFNBVPYR6Q35IZCZQOIKS
+### Contract ID
+CBRJEQNZWSWO4FYKTWCUUOJY4NIBORCUWRGJFNBVPYR6Q35IZCZQOIKS
+### Stellar Link
+https://stellar.expert/explorer/testnet/contract/CBRJEQNZWSWO4FYKTWCUUOJY4NIBORCUWRGJFNBVPYR6Q35IZCZQOIKS
 ---
 
 *Built for the Stellar Bootcamp 2026. Reference implementation at [https://github.com/armlynobinguar/Stellar-Bootcamp-2026](https://github.com/armlynobinguar/Stellar-Bootcamp-2026)*
